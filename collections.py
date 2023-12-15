@@ -46,10 +46,10 @@ print(f'hd.address keys = {hd["address"].keys()}')
 
 
 # Functions: 'def' keyword
-def sayHello(name) :
+def say_ello(name) :
     print(f'\nHello {name} ')
     print('world!')
-sayHello('HD')
+say_hello('HD')
 
 
 
